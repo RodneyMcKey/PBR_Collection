@@ -4,7 +4,6 @@ If you want to ask for textures to be made, create an issue. I'll prioritize the
 
 Note that resource packs below doesn't contain all original textures, only modified ones. You still need original pack.
 
-
-+GTNH_PBR - Required as a base pack.
-+Faitfull PBR - Addon For faitfull 32x
-+UU-tex-PBR - Addon For uu-tex.
+GTNH_PBR - Required as a base pack.<br>
+Faitfull PBR - Addon For faitfull 32x<br>
+UU-tex-PBR - Addon For uu-tex.<br>
